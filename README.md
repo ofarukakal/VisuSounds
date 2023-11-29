@@ -1,2 +1,2 @@
 # VisuSounds
- Emotion Detection Based Music Recommendation System
+Emotion Detection Based Music Recommendation System
